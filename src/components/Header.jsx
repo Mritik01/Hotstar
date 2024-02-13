@@ -13,7 +13,7 @@ const Header = (props) => {
   return (
     <Nav>
       <Logo>
-        <img src="/images/logo.svg" />
+        <img src="/images/logo.svg" alt="hlloer"/>
       </Logo>
       <NavMenu>
         <a href="/home">
